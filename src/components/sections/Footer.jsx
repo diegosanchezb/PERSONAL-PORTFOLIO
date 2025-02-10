@@ -1,7 +1,6 @@
 import {
   FaLinkedin,
   FaInstagram,
-  FaTwitter,
   FaWhatsapp,
   FaEnvelope,
 } from "react-icons/fa";
