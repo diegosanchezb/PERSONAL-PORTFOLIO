@@ -39,7 +39,7 @@ export const Projects = () => {
               <div className="flex justify-between items-center">
                 <a
                   target="blank"
-                  href="#"
+                  href="https://github.com/diegosanchezb/PERSONAL-PORTFOLIO"
                   className="text-lime-400 hover:text-lime-300 transition-colors my-4"
                 >
                   View project →
@@ -88,16 +88,20 @@ export const Projects = () => {
                 their stay.
               </p>
               <div className="flex flex-wrap gap-2 mb-4">
-                {["JavaScript", "React", "Tailwindcss", "NextUI"].map(
-                  (tech, key) => (
-                    <span
-                      key={key}
-                      className="bg-lime-600/10 text-lime-600 py-1 px-3 rounded-full text-sm hover:bg-black hover:shadow-[0_2px_8px_rgba(59,130,246,0.1)] transition-all"
-                    >
-                      {tech}
-                    </span>
-                  )
-                )}
+                {[
+                  "JavaScript",
+                  "React",
+                  "Tailwindcss",
+                  "NextUI",
+                  "PostgreSQL",
+                ].map((tech, key) => (
+                  <span
+                    key={key}
+                    className="bg-lime-600/10 text-lime-600 py-1 px-3 rounded-full text-sm hover:bg-black hover:shadow-[0_2px_8px_rgba(59,130,246,0.1)] transition-all"
+                  >
+                    {tech}
+                  </span>
+                ))}
               </div>
               <div className="flex justify-between items-center">
                 <a
@@ -116,7 +120,8 @@ export const Projects = () => {
                 update and refine these projects to stay up to date with modern
                 technologies and best practices, ensuring constant learning and
                 improvement. These projects allow me to experiment with new
-                concepts and explore creative solutions.
+                concepts and explore creative solutions. Each project challenges
+                me to think critically and improve my technical expertise.
               </p>
               <div className="flex flex-wrap gap-2 mb-4">
                 {["JavaScript", "React", "Tailwindcss"].map((tech, key) => (
