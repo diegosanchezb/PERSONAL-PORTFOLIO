@@ -1,8 +1,26 @@
-# React + Vite
+# My Frontend Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my personal portfolio website showcasing my work as a Frontend Developer. It highlights the projects I’ve worked on, the skills I’ve acquired, and my experience in web development.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Clean and modern UI design.
+- Responsive layout for a smooth user experience across all devices.
+- Highlights of my frontend development projects, including technologies used and key features.
+- Sections dedicated to my skills, experience, and continuous learning journey.
+  
+## Technologies Used
+
+- HTML, CSS(Tailwind), JavaScript, React, EmailJS
+- Responsive Design (Flexbox, Grid)
+- Frontend Frameworks (React)
+- Version Control (Git, GitHub)
+
+## Getting Started
+
+To view the portfolio, simply clone the repository and open the `index.html` file in your browser.
+
+```bash
+git clone https://github.com/yourusername/yourportfolio.git
+cd yourportfolio
+open index.html
