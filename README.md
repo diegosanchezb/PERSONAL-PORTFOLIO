@@ -11,9 +11,10 @@ This is my personal portfolio website showcasing my work as a Frontend Developer
   
 ## Technologies Used
 
-- HTML, CSS(Tailwind), JavaScript, React, EmailJS
-- Responsive Design (Flexbox, Grid)
-- Frontend Frameworks (React)
+- HTML5
+- JavaScript (ES6+)
+- React
+- Tailwind CSS for styling
 - Version Control (Git, GitHub)
 
 ## Getting Started
