@@ -1,0 +1,56 @@
+{
+
+    "loading-screen": "<Hello world />",
+
+    "navbar": {
+        "home": "Home",
+        "about": "About me",
+        "projects": "Projects",
+        "contact": "Contact"
+    },
+
+    "home-page": {
+        "title": "Hi, I'm Diego Armando",
+        "intro": "I'm a third-year Bachelor's student in Informatics and a Junior Frontend Developer. Passionate about technology and design, I'm always looking for new opportunities to improve my skills. Currently, I'm open to any opportunity that positively contributes to my career.",
+        "button-projects": "View Projects",
+        "button-contact": "Contact"
+    },
+
+    "about-me": {
+        "title": "About Me",
+        "description": "Beyond my academic and professional life, I have several hobbies that define me. I'm an avid reader, finding in books an endless source of knowledge and inspiration. Music also plays a special role in my life, especially when I play the piano. Additionally, I strive to stay physically active, always seeking a balance between physical and mental well-being.<br /> I'm excited to collaborate with people and projects that share my passion for technology and design.",
+        "education-title": "Education",
+        "education": "Bachelor's Degree in Informatics - Universidad Siglo 21 (2023-Present)",
+        "coursework": "QA Testing (Udemy), Intensive JavaScript (Universidad tecnológica nacional), MySQL (University)",
+        "work-title": "Work Experience",
+        "work-position": "Frontend Developer at Delta Dev (March 2024 - September 2024)",
+        "work": "Development of a CRM for the security management system of the Port of Mar del Plata, which will be widely used on vessels."
+    },
+
+    "projects": {
+        "title": "Completed Projects",
+        "title-project-1": "Personal Portfolio",
+        "description-project-1": "A personal portfolio website showcasing my work as a frontend developer. Designed with a clean and modern user interface, it highlights my projects, skills, and experience. Created with a focus on responsiveness and performance to ensure a smooth user experience across all devices. It also reflects my passion for building intuitive and visually appealing web applications.",
+        "title-project-2": "E-commerce Website",
+        "description-project-2": "A modern and responsive e-commerce website for a burger restaurant, designed to provide a seamless ordering experience. Features include an interactive menu, product customization, and a simple checkout process. Built with a strong focus on usability and performance to enhance the customer experience.",
+        "title-project-3": "Customer Relationship Management System",
+        "description-project-3": "A custom-designed CRM for the Port of Mar del Plata, one of Argentina's most important ports. The system facilitates the management of ship arrivals and departures, documenting all relevant details, such as the number of people on board and their roles, as well as any incidents or events during their stay.",
+        "title-project-4": "Various Projects",
+        "description-project-4": "A collection of projects developed while taking a course aimed at strengthening my frontend development skills. I continuously update and refine these projects to stay up to date with modern technologies and best practices, ensuring constant learning and improvement. These projects allow me to experiment with new concepts and explore creative solutions. Each project challenges me to think critically and enhance my technical expertise.",
+        "button-view-project": "View project →"
+    },
+
+    "contact": {
+        "title": "Contact Me",
+        "name": "Name...",
+        "gmail": "example@gmail.com",
+        "message": "Your message...",
+        "button-send": "Send Message",
+        "alert1": "Sent message!",
+        "alert2": "Oops, an error has occurred, please try again!"
+    },
+
+    "footer": {
+        "rights": "© 2025 Diego Armando Sánchez Brisa. All rights deserved."
+    }
+}

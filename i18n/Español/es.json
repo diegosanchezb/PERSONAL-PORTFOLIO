@@ -1,0 +1,56 @@
+{
+
+    "loading-screen": "<Hola mundo />",
+
+    "navbar": {
+        "home": "Inicio",
+        "about": "Sobre mí",
+        "projects": "Proyectos",
+        "contact": "Contacto"
+    },
+
+    "home-page": {
+        "title": "Hola, soy Diego Armando",
+        "intro": "Estudiante de tercer año de la Licenciatura en Informática, y desarrollador frontend JR. Amante de la tecnología y el diseño, siempre estoy buscando nuevas oportunidades para mejorar mis habilidades. Actualmente, estoy abierto a escuchar cualquier tipo de propuesta que sea positiva para mi carrera.",
+        "button-projects": "Ver proyectos",
+        "button-contact": "Contacto"
+    },
+
+    "about-me": {
+        "title": "Sobre mí",
+        "description": "Más allá del ámbito académico y profesional, tengo varias aficiones que me definen. Soy una lectora ávida, encontrando en los libros una fuente inagotable de conocimiento e inspiración. La música también ocupa un lugar especial en mi vida, especialmente cuando toco el piano. Además, trato de mantenerme físicamente activa, buscando siempre el equilibrio entre el bienestar físico y mental.<br /> Me entusiasma colaborar con personas y proyectos que compartan mi pasión por la tecnología y el diseño.",
+        "education-title": "Estudios",
+        "education": "Licenciatura en Informática - Universidad Siglo 21 (2023-Actualidad)",
+        "coursework": "QA Tester (Udemy), JavaScript intensivo (Universidad tecnológica nacional), MySQL (Facultad)",
+        "work-title": "Experiencia laboral",
+        "work-position": "Desarrolladora frontend en Delta Dev (Marzo 2024 - Septiembre 2024)",
+        "work": "Creación de un CRM para el sistema de gestión de seguridad del puerto de Mar del Plata, que será utilizado en gran medida en los buques."
+    },
+
+    "projects": {
+        "title": "Proyectos realizados",
+        "title-project-1": "Portfolio personal",
+        "description-project-1": "Un sitio web de portafolio personal que muestra mi trabajo como desarrollador de frontend. Diseñado con una interfaz de usuario limpia y moderna, resalta mis proyectos, habilidades y experiencia. Creado con un enfoque en la capacidad de respuesta y el rendimiento para garantizar una experiencia de usuario fluida en todos los dispositivos. También refleja mi pasión por crear aplicaciones web intuitivas y visualmente atractivas.",
+        "title-project-2": "Web para comercio",
+        "description-project-2": "Un sitio web de comercio electrónico moderno y responsivo para un restaurante de hamburguesas, diseñado para brindar una experiencia de pedido fluida. Las características incluyen un menú interactivo, personalización de productos y un proceso de pago simple. Creado con un enfoque en la usabilidad y el rendimiento para intentar mejorar la experiencia del cliente.",
+        "title-project-3": "Sistema de gestión de relación con clientes",
+        "description-project-3": "Un CRM diseñado a medida para el Puerto de Mar del Plata, uno de los puertos más importantes de Argentina. El sistema facilita la gestión de llegadas y salidas de buques, documentando todos los detalles relevantes, como la cantidad de personas a bordo y sus roles, así como cualquier incidente o evento ocurrido durante su estadía.",
+        "title-project-4": "Proyectos varios",
+        "description-project-4": "Una colección de proyectos creados mientras seguía un curso, cuyo objetivo era reforzar mis habilidades de desarrollo frontend. Actualizo y perfecciono continuamente estos proyectos para mantenerme al día con las tecnologías modernas y las mejores prácticas, lo que garantiza un aprendizaje y una mejora constantes. Estos proyectos me permiten experimentar con nuevos conceptos y explorar soluciones creativas. Cada proyecto me desafía a pensar de manera crítica y a mejorar mi experiencia técnica.",
+        "button-view-project": "Ver proyecto →"
+    },
+
+    "contact": {
+        "title": "Contactáme",
+        "name": "Nombre...",
+        "gmail": "ejemplo@gmail.com",
+        "message": "Tu mensaje...",
+        "button-send": "Enviar mensaje",
+        "alert1": "Mensaje enviado!",
+        "alert2": "Oops, ha ocurrido un error, intentalo de nuevo!"
+    },
+
+    "footer": {
+        "rights": "© 2025 Diego Armando Sánchez Brisa. Todos los derechos reservados."
+    }
+}

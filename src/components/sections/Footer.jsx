@@ -4,8 +4,11 @@ import {
   FaWhatsapp,
   FaEnvelope,
 } from "react-icons/fa";
+import { useTranslation } from "react-i18next";
 
 export const Footer = () => {
+  const [t, i18n] = useTranslation("global");
+
   return (
     <section className="bg-black text-white py-6">
       <div className="container mx-auto px-4 text-center">
@@ -42,9 +45,7 @@ export const Footer = () => {
             <FaEnvelope size={26} />
           </a>
         </div>
-        <p className="text-lime-600 text-m">
-          © 2025 Diego Armando Sánchez Brisa. All rights reserved.
-        </p>
+        <p className="text-lime-600 text-m">{t("footer.rights")}</p>
       </div>
     </section>
   );

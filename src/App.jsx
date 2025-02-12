@@ -1,6 +1,7 @@
 import "./App.css";
 import "./index.css";
 import { useState } from "react";
+import { useTranslation } from "react-i18next";
 import { LoadingScreen } from "./components/LoadingScreen";
 import { Navbar } from "./components/sections/Navbar";
 import { MobileMenu } from "./components/MobileMenu";
@@ -9,6 +10,7 @@ import { About } from "./components/sections/About";
 import { Projects } from "./components/sections/Projects";
 import { Contact } from "./components/sections/Contact";
 import { Footer } from "./components/sections/Footer";
+import i18next from "i18next";
 
 function App() {
   const [isLoaded, setIsLoaded] = useState(false);

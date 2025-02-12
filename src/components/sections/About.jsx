@@ -1,4 +1,5 @@
 import { RevealOnScroll } from "../RevealOnScroll";
+import { useTranslation } from "react-i18next";
 
 export const About = () => {
   const frontendSkills = [
@@ -17,6 +18,8 @@ export const About = () => {
     "React Router",
   ];
 
+  const [t, i18n] = useTranslation("global");
+
   return (
     <section
       id="about"
@@ -25,20 +28,10 @@ export const About = () => {
       <RevealOnScroll>
         <div className="max-w-3xl mx-auto px-4">
           <h2 className="text-3xl font-bold mb-8 bg-gradient-to-r from-lime-700 bg-clip-text text-transparent to-lime-500 text-center">
-            About me
+            {t("about-me.title")}
           </h2>
           <div className="rounded-xl p-8 border-white/10 border hover:-translate-y-1 transition-all">
-            <p className="text-gray-300 mb-6">
-              Beyond the academic and professional field, I have several hobbies
-              that define me. I am an avid reader, finding in books an
-              inexhaustible source of knowledge and inspiration. Music too it
-              holds a special place in my life, especially when I play the
-              piano. In addition, I try to stay physically active, looking for
-              always the balance between physical and mental well-being.
-              <br />
-              I'm excited about collaborating with people and projects that
-              share my passion for technology and design.
-            </p>
+            <p className="text-gray-300 mb-6">{t("about-me.description")}</p>
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
               <div className="rounded-xl p-6 hover:-translate-y-1 transition-all">
@@ -72,30 +65,26 @@ export const About = () => {
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mt-8">
             <div className="p-6 rounded-xl border-white/10 border hover:-translate-y-1 transition-all">
-              <h3 className="text-xl font-bold mb-4">🏫Education</h3>
+              <h3 className="text-xl font-bold mb-4">
+                🏫{t("about-me.education-title")}
+              </h3>
               <ul className="list-disc list-inside text-gray-300 space-y-2">
                 <li>
-                  <strong>Bachelor's degree in Computer Science</strong> -
-                  Universidad Siglo 21 (2023-Present)
+                  <strong>{t("about-me.education")}</strong>
                 </li>
-                <li>
-                  Relevant Coursework: QA Testing manual, JavaScript intensive,
-                  MySQL
-                </li>
+                <li>{t("about-me.coursework")}</li>
               </ul>
             </div>
             <div className="p-6 rounded-xl border-white/10 border hover:-translate-y-1 transition-all">
-              <h3 className="text-xl font-bold mb-4">💼Work Experience</h3>
+              <h3 className="text-xl font-bold mb-4">
+                💼{t("about-me.work-title")}
+              </h3>
               <div className="space-y-4 text-gray-300">
                 <div>
                   <h4 className="font-semibold">
-                    Frontend Developer at Delta Dev (March 2024 - September
-                    2024)
+                    {t("about-me.work-position")}
                   </h4>
-                  <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Earum, ipsa omnis consectetur ea beatae est.
-                  </p>
+                  <p>{t("about-me.work")}</p>
                 </div>
               </div>
             </div>
