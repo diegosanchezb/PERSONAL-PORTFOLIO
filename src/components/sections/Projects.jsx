@@ -23,16 +23,20 @@ export const Projects = () => {
                 {t("projects.description-project-1")}
               </p>
               <div className="flex flex-wrap gap-2 mb-4">
-                {["JavaScript", "React", "Tailwindcss", "EmailJS"].map(
-                  (tech, key) => (
-                    <span
-                      key={key}
-                      className="bg-lime-600/10 text-lime-600 py-1 px-3 rounded-full text-sm hover:bg-black hover:shadow-[0_2px_8px_rgba(59,130,246,0.1)] transition-all"
-                    >
-                      {tech}
-                    </span>
-                  )
-                )}
+                {[
+                  "JavaScript",
+                  "React",
+                  "Tailwindcss",
+                  "EmailJS",
+                  "Github",
+                ].map((tech, key) => (
+                  <span
+                    key={key}
+                    className="bg-lime-600/10 text-lime-600 py-1 px-3 rounded-full text-sm hover:bg-black hover:shadow-[0_2px_8px_rgba(59,130,246,0.1)] transition-all"
+                  >
+                    {tech}
+                  </span>
+                ))}
               </div>
               <div className="flex justify-between items-center">
                 <a
@@ -52,16 +56,20 @@ export const Projects = () => {
                 {t("projects.description-project-2")}
               </p>
               <div className="flex flex-wrap gap-2 mb-4">
-                {["JavaScript", "React", "React Router", "Tailwindcss"].map(
-                  (tech, key) => (
-                    <span
-                      key={key}
-                      className="bg-lime-600/10 text-lime-600 py-1 px-3 rounded-full text-sm hover:bg-black hover:shadow-[0_2px_8px_rgba(59,130,246,0.1)] transition-all"
-                    >
-                      {tech}
-                    </span>
-                  )
-                )}
+                {[
+                  "JavaScript",
+                  "React",
+                  "React Router",
+                  "Tailwindcss",
+                  "Github",
+                ].map((tech, key) => (
+                  <span
+                    key={key}
+                    className="bg-lime-600/10 text-lime-600 py-1 px-3 rounded-full text-sm hover:bg-black hover:shadow-[0_2px_8px_rgba(59,130,246,0.1)] transition-all"
+                  >
+                    {tech}
+                  </span>
+                ))}
               </div>
               <div className="flex justify-between items-center">
                 <a
@@ -87,6 +95,7 @@ export const Projects = () => {
                   "Tailwindcss",
                   "NextUI",
                   "PostgreSQL",
+                  "Github",
                 ].map((tech, key) => (
                   <span
                     key={key}
@@ -113,14 +122,16 @@ export const Projects = () => {
                 {t("projects.description-project-4")}
               </p>
               <div className="flex flex-wrap gap-2 mb-4">
-                {["JavaScript", "React", "Tailwindcss"].map((tech, key) => (
-                  <span
-                    key={key}
-                    className="bg-lime-600/10 text-lime-600 py-1 px-3 rounded-full text-sm hover:bg-black hover:shadow-[0_2px_8px_rgba(59,130,246,0.1)] transition-all"
-                  >
-                    {tech}
-                  </span>
-                ))}
+                {["JavaScript", "React", "Tailwindcss", "Github"].map(
+                  (tech, key) => (
+                    <span
+                      key={key}
+                      className="bg-lime-600/10 text-lime-600 py-1 px-3 rounded-full text-sm hover:bg-black hover:shadow-[0_2px_8px_rgba(59,130,246,0.1)] transition-all"
+                    >
+                      {tech}
+                    </span>
+                  )
+                )}
               </div>
               <div className="flex justify-between items-center">
                 <a

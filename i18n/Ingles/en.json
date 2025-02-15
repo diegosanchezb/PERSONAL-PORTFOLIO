@@ -32,11 +32,11 @@
         "title-project-1": "Personal Portfolio",
         "description-project-1": "A personal portfolio website showcasing my work as a frontend developer. Designed with a clean and modern user interface, it highlights my projects, skills, and experience. Created with a focus on responsiveness and performance to ensure a smooth user experience across all devices. It also reflects my passion for building intuitive and visually appealing web applications.",
         "title-project-2": "E-commerce Website",
-        "description-project-2": "A modern and responsive e-commerce website for a burger restaurant, designed to provide a seamless ordering experience. Features include an interactive menu, product customization, and a simple checkout process. Built with a strong focus on usability and performance to enhance the customer experience.",
+        "description-project-2": "A modern and responsive e-commerce website for a burger restaurant, designed to provide a seamless ordering experience. Features include an interactive menu, product customization, and a simple checkout process. Built with a strong focus on usability and performance to enhance the customer experience. The platform ensures smooth navigation, fast load times, and an intuitive interface to maximize user satisfaction.",
         "title-project-3": "Customer Relationship Management System",
         "description-project-3": "A custom-designed CRM for the Port of Mar del Plata, one of Argentina's most important ports. The system facilitates the management of ship arrivals and departures, documenting all relevant details, such as the number of people on board and their roles, as well as any incidents or events during their stay.",
         "title-project-4": "Various Projects",
-        "description-project-4": "A collection of projects developed while taking a course aimed at strengthening my frontend development skills. I continuously update and refine these projects to stay up to date with modern technologies and best practices, ensuring constant learning and improvement. These projects allow me to experiment with new concepts and explore creative solutions. Each project challenges me to think critically and enhance my technical expertise.",
+        "description-project-4": "A collection of projects developed while taking a course aimed at strengthening my frontend development skills. I continuously update and refine these projects to stay up to date with modern technologies and best practices, ensuring constant learning and improvement. These projects allow me to experiment with new concepts and explore creative solutions.",
         "button-view-project": "View project →"
     },
 
