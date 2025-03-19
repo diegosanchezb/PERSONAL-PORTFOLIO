@@ -2,7 +2,7 @@ import { RevealOnScroll } from "../RevealOnScroll";
 import { useTranslation } from "react-i18next";
 
 export const Projects = () => {
-  const [t, i18n] = useTranslation("global");
+  const [t] = useTranslation("global");
 
   return (
     <section
@@ -107,7 +107,7 @@ export const Projects = () => {
               </div>
               <div className="flex justify-between items-center">
                 <a
-                  href="#"
+                  href="https://github.com/arturfrut/SGSPuertoNext"
                   className="text-lime-400 hover:text-lime-300 transition-colors my-4"
                 >
                   {t("projects.button-view-project")}
@@ -122,21 +122,28 @@ export const Projects = () => {
                 {t("projects.description-project-4")}
               </p>
               <div className="flex flex-wrap gap-2 mb-4">
-                {["JavaScript", "React", "Tailwindcss", "Github"].map(
-                  (tech, key) => (
-                    <span
-                      key={key}
-                      className="bg-lime-600/10 text-lime-600 py-1 px-3 rounded-full text-sm hover:bg-black hover:shadow-[0_2px_8px_rgba(59,130,246,0.1)] transition-all"
-                    >
-                      {tech}
-                    </span>
-                  )
-                )}
+                {[
+                  "JavaScript",
+                  "React",
+                  "Supabase",
+                  "Tailwindcss",
+                  "TypeScript",
+                  "Zustand",
+                  "Zod",
+                  "Github",
+                ].map((tech, key) => (
+                  <span
+                    key={key}
+                    className="bg-lime-600/10 text-lime-600 py-1 px-3 rounded-full text-sm hover:bg-black hover:shadow-[0_2px_8px_rgba(59,130,246,0.1)] transition-all"
+                  >
+                    {tech}
+                  </span>
+                ))}
               </div>
               <div className="flex justify-between items-center">
                 <a
                   target="blank"
-                  href="https://github.com/diegosanchezb/PROJECTS-REACT"
+                  href="https://www.linkedin.com/feed/update/urn:li:activity:7307757773591580672/"
                   className="text-lime-400 hover:text-lime-300 transition-colors my-4"
                 >
                   {t("projects.button-view-project")}

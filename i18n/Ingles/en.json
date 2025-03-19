@@ -35,8 +35,8 @@
         "description-project-2": "A modern and responsive e-commerce website for a burger restaurant, designed to provide a seamless ordering experience. Features include an interactive menu, product customization, and a simple checkout process. Built with a strong focus on usability and performance to enhance the customer experience. The platform ensures smooth navigation, fast load times, and an intuitive interface to maximize user satisfaction.",
         "title-project-3": "Customer Relationship Management System",
         "description-project-3": "A custom-designed CRM for the Port of Mar del Plata, one of Argentina's most important ports. The system facilitates the management of ship arrivals and departures, documenting all relevant details, such as the number of people on board and their roles, as well as any incidents or events during their stay.",
-        "title-project-4": "Various Projects",
-        "description-project-4": "A collection of projects developed while taking a course aimed at strengthening my frontend development skills. I continuously update and refine these projects to stay up to date with modern technologies and best practices, ensuring constant learning and improvement. These projects allow me to experiment with new concepts and explore creative solutions.",
+        "title-project-4": "E-commerce Website with Backend",
+        "description-project-4": "A fully functional e-commerce platform where I developed both the frontend and backend, ensuring a seamless user experience. From styling to server logic, every aspect was carefully implemented to achieve optimal performance. This project allowed me to deepen my knowledge of modern technologies and best practices.",
         "button-view-project": "View project →"
     },
 
@@ -51,6 +51,6 @@
     },
 
     "footer": {
-        "rights": "© 2025 Diego Armando Sánchez Brisa. All rights deserved."
+        "rights": "© 2025 Diego Armando Sánchez Brisa."
     }
 }

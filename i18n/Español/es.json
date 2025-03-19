@@ -23,7 +23,7 @@
         "education": "Licenciatura en Informática - Universidad Siglo 21 (2023-Actualidad)",
         "coursework": "QA Tester (Udemy), JavaScript intensivo (Universidad tecnológica nacional), MySQL (Facultad)",
         "work-title": "Experiencia laboral",
-        "work-position": "Desarrolladora frontend en Delta Dev (Marzo 2024 - Septiembre 2024)",
+        "work-position": "Desarrollador frontend en Delta Dev (Marzo 2024 - Septiembre 2024)",
         "work": "Creación de un CRM para el sistema de gestión de seguridad del puerto de Mar del Plata, que será utilizado en gran medida en los buques."
     },
 
@@ -31,12 +31,12 @@
         "title": "Proyectos realizados",
         "title-project-1": "Portfolio personal",
         "description-project-1": "Un sitio web de portafolio personal que muestra mi trabajo como desarrollador de frontend. Diseñado con una interfaz de usuario limpia y moderna, resalta mis proyectos, habilidades y experiencia. Creado con un enfoque en la capacidad de respuesta y el rendimiento para garantizar una experiencia de usuario fluida en todos los dispositivos. También refleja mi pasión por crear aplicaciones web intuitivas y visualmente atractivas.",
-        "title-project-2": "Web para comercio",
+        "title-project-2": "Web para restaurant",
         "description-project-2": "Un sitio web de comercio electrónico moderno y responsivo para un local de venta de hamburguesas, diseñado para brindar una experiencia de pedido fluida. Las características incluyen un menú interactivo, personalización de productos y un proceso de pago simple. Creado con un enfoque en la usabilidad y el rendimiento para intentar mejorar la experiencia del cliente, y simplificar el proceso que conllevaría buscar el catálogo por un lado y realizar el pedido por otro.",
         "title-project-3": "Sistema de gestión de relación con clientes",
         "description-project-3": "Un CRM diseñado a medida para el Puerto de Mar del Plata, uno de los puertos más importantes de Argentina. El sistema facilita la gestión de llegadas y salidas de buques, documentando todos los detalles relevantes, como la cantidad de personas a bordo y sus roles, así como cualquier incidente o evento ocurrido durante su estadía. Además, el almacenamiento pasa a una base de datos y les ahorró espacio físico.",
-        "title-project-4": "Proyectos varios",
-        "description-project-4": "Una colección de proyectos creados mientras seguía un curso, cuyo objetivo era reforzar mis habilidades de desarrollo frontend. Actualizo y perfecciono continuamente estos proyectos para mantenerme al día con las tecnologías modernas y las mejores prácticas, lo que garantiza un aprendizaje y una mejora constantes. Estos proyectos me permiten experimentar con nuevos conceptos y explorar soluciones creativas, ampliando mis conocimientos constantemente.",
+        "title-project-4": "Web para comercio",
+        "description-project-4": "Un ecommerce desarrollado para reforzar mis habilidades en desarrollo web. Implementé tanto el frontend como el backend, asegurando una experiencia fluida y funcional. Desde el estilado hasta la lógica del servidor, cada detalle fue trabajado para garantizar un rendimiento óptimo. Este proyecto me permitió profundizar en tecnologías modernas y mejorar mis prácticas.",
         "button-view-project": "Ver proyecto →"
     },
 
@@ -51,6 +51,6 @@
     },
 
     "footer": {
-        "rights": "© 2025 Diego Armando Sánchez Brisa. Todos los derechos reservados."
+        "rights": "© 2025 Diego Armando Sánchez Brisa."
     }
 }

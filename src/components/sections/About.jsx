@@ -8,15 +8,17 @@ export const About = () => {
     "TypeScript",
     "Tailwindcss",
     "NextUI",
+    "Next.js",
     "Node.js",
   ];
   const backendSkills = [
-    "MySQL",
     "PostgreSQL",
-    "EmailJS",
-    "AWS",
-    "React Router",
+    "Supabase",
     "Github",
+    "React Router",
+    "Zod",
+    "Zustand",
+    "EmailJS",
   ];
 
   const [t, i18n] = useTranslation("global");
